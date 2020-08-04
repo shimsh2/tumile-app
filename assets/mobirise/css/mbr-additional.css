@@ -713,3 +713,24 @@ section.lazy-placeholder:after {
 .cid-s6sS44JV7l {
   background-image: url("../../../assets/images/background4.jpg");
 }
+.cid-s6EzQaAFEC {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s6EzQaAFEC .title {
+  margin-bottom: 2rem;
+}
+.cid-s6EzQaAFEC .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s6EzQaAFEC a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-s6EzQaAFEC a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-s6EzQaAFEC textarea.form-control {
+  min-height: 188px;
+}
